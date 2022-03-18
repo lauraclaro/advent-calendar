@@ -1,2 +1,2 @@
 # advent-calendar
-Calendrier de l'avent animé décoratif
+Animated decorative Advent Calendar
